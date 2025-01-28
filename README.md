@@ -1,0 +1,1 @@
+Lucifer Music is a dynamic and visually stunning website designed to help users discover, listen to, and download their favorite songs by linking to popular music platforms like Spotify, Apple Music, and YouTube Music. This project combines modern design, smooth animations, and interactive features to deliver an exceptional user experience.
